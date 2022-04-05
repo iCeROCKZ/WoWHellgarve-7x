@@ -1,4 +1,4 @@
-# WoWHellgarve 9.2.0 
+# WoWHellgarve 7x 
 Hellgarve-Project
 How to use the bugtracker?
 -------------------------
@@ -23,9 +23,9 @@ On the Bugtracker everything must be written in English. Before reporting, pleas
 Additional Information
 -------------------------
 
-| Supported Patch:  |    9.2.0                                |
+| Supported Patch:  |    7x                                                      |
 |-------------------|:-----------------------------------------------------------|
 | Discord:          | https://discord.gg/TnYASnMmFm                              |
-| Website:          | https://wowhellgarve.com                                   |
+| Website:          | https://wowhellgarve.com/legion/en/                               |
 |-------------------|:-----------------------------------------------------------|
-| Realmlist:        | SET portal    "l2hellgarve.ddns.net"              
+| Realmlist:        | SET portal    "l2hellgarve.ddns.net:1118"              
